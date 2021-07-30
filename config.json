@@ -1,0 +1,283 @@
+{
+	"config": {
+		"colors": {
+			"background": "#4E88D2",
+			"text": "#fff",
+			"experimental": false,
+			"theme": ""
+		},
+		"indicator": true,
+		"pagination": true,
+		"pageNumbers": true,
+		"enableCustomCSS": false,
+		"hasAnswerFeedback": true,
+		"disableInteractionSummary": true,
+		"disableLessonScore": false,
+		"minimumScore": 0,
+		"hasScormExitButton": false,
+		"preventLogoutOnExit": false,
+		"background": "https://media.edapp.com/image/upload/v1627489835/branding/610181dea07ac263e3e31a4f/courseware/courses/610182394c1ed8db6319e08c/w1pcwb0abskratacpa4t.png",
+		"customCSS": "",
+		"direction": "ltr",
+		"logo": "https://media.edapp.com/image/upload/v1627489849/branding/610181dea07ac263e3e31a4f/courseware/courses/610182394c1ed8db6319e08c/u2cu5xnsyrijwydeqyfe.png",
+		"language": "",
+		"soundDisabled": false,
+		"incompleteOnFail": false
+	},
+	"isAudio": false,
+	"isOnline": false,
+	"index": 0,
+	"slides": [
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.TitleSlideDataDocument",
+			"id": "42202523-d184-4e29-a0a3-9c5e4c3a5245",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "42202523-d184-4e29-a0a3-9c5e4c3a5245",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "title",
+			"subtype": "default",
+			"name": 0,
+			"displayIndex": "1",
+			"templateName": "Title Slide",
+			"templateDescription": "Introduce your lesson",
+			"permanent": false,
+			"data": {
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Types of Computer",
+				"titleType": "html",
+				"subtitle": "Lesson 2 of theComputer: Basics",
+				"subtitleType": "html",
+				"buttonText": "Let's Begin",
+				"exitButton": false
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ImageCollectionSlideDataDocument",
+			"id": "b2111948-a471-b3e3-bf98-4884b2c6a15a",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "b2111948-a471-b3e3-bf98-4884b2c6a15a",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "image-collection",
+			"subtype": "image-collection",
+			"name": 1,
+			"displayIndex": "2",
+			"templateName": "Image Collection",
+			"templateDescription": "Select an image to see more detail",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Example Image Collection",
+				"titleType": "html",
+				"prompt": "Select each image for more details",
+				"background": "",
+				"lightbox": false,
+				"images": [
+					{
+						"content": "# **Desktop**\nThese computers are usually used at home, school, or work. They are found stationed at a desk.\n",
+						"image": "https://media.edapp.com/image/upload/v1627519358/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/uanso88k23qie906vovz.png",
+						"narration": null
+					},
+					{
+						"content": "# **Laptop**\nLaptop Computers are battery-powered computers that are built to be used more portable than a desktop, combining all needed parts of a desktop into a mobile on the go package. \n",
+						"image": "https://media.edapp.com/image/upload/v1627519364/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/qgpxnkhud6ioaqpfcokr.png",
+						"narration": null
+					},
+					{
+						"content": "# **Tablet**\nTablets are handheld computers that usually rely on a touch screen for typing and navigation\n",
+						"image": "https://media.edapp.com/image/upload/v1627519371/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/vedc6bmrbcnsnwgatxjo.png",
+						"narration": null
+					},
+					{
+						"content": "# **Server**\nServers are used to serve information to other computers on a network.\n",
+						"image": "https://media.edapp.com/image/upload/v1627519377/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/jaxazfzl5zlf86rwarnl.png",
+						"narration": ""
+					}
+				],
+				"doneText": "Ok, I'm done"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ImageGallerySlideDataDocument",
+			"id": "388a5394-2a17-9628-cb7a-933b0e0a770e",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "388a5394-2a17-9628-cb7a-933b0e0a770e",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "image-gallery",
+			"subtype": "image-gallery",
+			"name": 2,
+			"displayIndex": "3",
+			"templateName": "Image Gallery",
+			"templateDescription": "Swipe through a gallery of images",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": null,
+				"titleType": null,
+				"prompt": "Swipe to continue",
+				"background": "",
+				"lightbox": true,
+				"images": [
+					{
+						"image": "https://media.edapp.com/image/upload/v1627519416/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/qhhrirai2bon0nssnloi.png",
+						"caption": "# **Smartphone**\nMany of today’s cell phones can do a lot the same computers can do, including browning the web, playing games, watching videos, and more. "
+					},
+					{
+						"image": "https://media.edapp.com/image/upload/v1627519407/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/txnd8kqwddbhm6hlanb3.png",
+						"caption": "# **Wearable**\nThis is a general term coined for a group of devices that are typically worn on the user throughout the day. Such as a fitness tracker or a smartwatch. These devices sometimes can be used standalone but typically require a smartphone connection.\n"
+					},
+					{
+						"image": "https://media.edapp.com/image/upload/v1627519388/ringo-uploads/610181dea07ac263e3e31a4f/courseware/lessons/610186739f0d1ee36eedf18c/gtxfiprufnbqzykdyodk.png",
+						"caption": "# **Game Console**\nA gaming console is a specialized type of computer built around entertainment and video games on your TV. These are more common as it is easier for friends to have the same console and connect together to play games. \n"
+					}
+				],
+				"doneText": "Ok, I'm done"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.TableSlideDataDocument",
+			"id": "fd05ccde-ee07-fa37-5309-fb7328500cd9",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "fd05ccde-ee07-fa37-5309-fb7328500cd9",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "table",
+			"subtype": "table",
+			"name": 3,
+			"displayIndex": "4",
+			"templateName": "Table",
+			"templateDescription": "Display tabular information",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "Product Information",
+				"titleType": "html",
+				"caption": "All information is up to date as of July 2019.",
+				"rows": [
+					{
+						"cells": [
+							"Computer Type",
+							"User Count",
+							"Year"
+						]
+					},
+					{
+						"cells": [
+							"Game Console",
+							"162,000,000",
+							"2018"
+						]
+					},
+					{
+						"cells": [
+							"Smartphone",
+							"3,800,000,000",
+							"2021"
+						]
+					},
+					{
+						"cells": [
+							"Wearable",
+							"722,000,000",
+							"2019"
+						]
+					}
+				],
+				"style": {
+					"header": true,
+					"condensed": false,
+					"full-width": true
+				}
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ExitSlideDataDocument",
+			"id": "71a7c84d-fb00-4439-8921-8e7a15a4c439",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "71a7c84d-fb00-4439-8921-8e7a15a4c439",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "exit",
+			"subtype": "default",
+			"name": 4,
+			"displayIndex": "5",
+			"templateName": "Exit Lesson",
+			"templateDescription": "",
+			"permanent": true,
+			"data": {
+				"title": "That's it!",
+				"titleType": "html",
+				"content": "Nice work. You've completed this lesson.",
+				"buttonText": "Exit Lesson"
+			}
+		}
+	],
+	"title": "Types of Computers",
+	"scorm": true,
+	"id": "610186739f0d1ee36eedf18c"
+}
